@@ -1,0 +1,38 @@
+body{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRNUWz-hWxVL-FfyxnUw1P24fxfjjvC4BiKg&usqp=CAU");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+span{
+	color:red;
+}
+img{
+	border-radius:100%;
+	border-color:blue;
+}
+#table{
+	background-color:white;
+}
+.line{
+	border-color:black;
+}
+.tab{
+		background-color:black;
+}
+table{
+	border:4px solid black;
+}
+button{
+	background-color:black;
+	border:black;
+	height:35px;
+}
+a{
+  color: white;
+}
+.align{
+		text-align:left;
+}
+a:hover{
+		color:#143ec9;
+}
